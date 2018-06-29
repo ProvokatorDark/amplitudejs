@@ -6,20 +6,6 @@ require("./scss/main.scss");
 var Amplitude = require('amplitudejs');
 var playlist = [
     {
-        "name": "Risins' High (feat Raashan Ahmad)",
-        "artist": "Ancient Astronauts",
-        "album": "We Are to Answer",
-        "url": "https://521dimensions.com/songs/Ancient Astronauts - Risin' High (feat Raashan Ahmad).mp3",
-        "cover_art_url": "album-art/we-are-to-answer.jpg"
-    },
-    {
-        "name": "The Gun",
-        "artist": "Lorn",
-        "album": "Ask The Dust",
-        "url": "https://521dimensions.com/songs/08 The Gun.mp3",
-        "cover_art_url": "album-art/ask-the-dust.jpg"
-    },
-    {
         "name": "Anvil",
         "artist": "Lorn",
         "album": "Anvil",
@@ -40,27 +26,7 @@ var playlist = [
         "url": "https://521dimensions.com/songs/FirstSnow-Emancipator.mp3",
         "cover_art_url": "album-art/soon-it-will-be-cold-enough.jpg"
     },
-    {
-        "name": "Terrain",
-        "artist": "pg.lost",
-        "album": "Key",
-        "url": "https://521dimensions.com/songs/Terrain-pglost.mp3",
-        "cover_art_url": "album-art/key.jpg"
-    },
-    {
-        "name": "Vorel",
-        "artist": "Russian Circles",
-        "album": "Guidance",
-        "url": "https://521dimensions.com/songs/Vorel-RussianCircles.mp3",
-        "cover_art_url": "album-art/guidance.jpg"
-    },
-    {
-        "name": "Intro / Sweet Glory",
-        "artist": "Jimkata",
-        "album": "Die Digital",
-        "url": "https://521dimensions.com/songs/IntroSweetGlory-Jimkata.mp3",
-        "cover_art_url": "album-art/die-digital.jpg"
-    },
+
     {
         "name": "Offcut #6",
         "artist": "Little People",
